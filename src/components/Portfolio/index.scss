@@ -1,0 +1,44 @@
+.disclaimer {
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0;
+  min-width: fit-content;
+
+  h1 {
+    color: #4682b4;
+    font-size: 12rem;
+    font-family: "Coolvetica";
+    font-weight: 400;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: fit-content;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .disclaimer {
+    h1 {
+      font-size: 9rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .disclaimer {
+    h1 {
+      font-size: 7rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .disclaimer {
+    h1 {
+      font-size: 5rem;
+    }
+  }
+}
