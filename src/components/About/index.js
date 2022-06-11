@@ -39,18 +39,13 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          I'm a very ambitious front-end developer located in Lithuania looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          I enjoy working in a team as it allows me to learn from others and get valuable feedback on my work. I don't fear making mistakes or taking up leadership positions as I can quickly understand what are everyone's skills and weak points.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          My skills lie in HTML, CSS, Sass, Git, JS, and ReactJS.
           </p>
         </div>
 

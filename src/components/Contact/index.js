@@ -38,7 +38,7 @@ const Contact = () => {
           <h1>
             <AnimatedLetters
               letterClass={letterClass}
-              strArray={["C", "o", "n", "t", "a", "c", "t", " ", " "]}
+              strArray={["C", "o", "n", "t", "a", "c", "t", " "]}
               idx={15}
             />
             <AnimatedLetters
