@@ -45,7 +45,7 @@ const About = () => {
           I enjoy working in a team as it allows me to learn from others and get valuable feedback on my work. I don't fear making mistakes or taking up leadership positions as I can quickly understand what are everyone's skills and weak points.
           </p>
           <p>
-          My skills lie in HTML, CSS, Sass, Git, JS, and ReactJS.
+          I know how to work with HTML, CSS, Sass, Git, JS, and ReactJS.
           </p>
         </div>
 
