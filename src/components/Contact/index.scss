@@ -138,12 +138,19 @@
   }
 }
 
-h1 {
-  font-size: 10rem;
-  span {
-    padding-right: 10px;
+.contact-page {
+  h1 {
+    font-size: 10rem;
     span {
-      padding-right: 0;
+      padding-right: 10px;
+      span {
+        padding-right: 0;
+      }
+    }
+  }
+  .text-zone {
+    p {
+      font-size: 1.5rem;
     }
   }
 }
@@ -162,7 +169,6 @@ h1 {
 
 @media only screen and (max-width: 1000px) {
   .contact-page {
-    
     .text-zone {
       left: 5%;
       h1 {
@@ -178,28 +184,27 @@ h1 {
       }
       .contact-form {
         .grid-container {
-      
           .grid-item1 {
             grid-column-start: 1;
             grid-column-end: 2;
             grid-row-start: 1;
             grid-row-end: 2;
           }
-      
+
           .grid-item2 {
             grid-column-start: 1;
             grid-column-end: 2;
             grid-row-start: 2;
             grid-row-end: 3;
           }
-      
+
           .grid-item3 {
             grid-row-start: 3;
             grid-row-end: 4;
             grid-column-start: 1;
             grid-column-end: 2;
           }
-      
+
           .grid-item4 {
             grid-row-start: 4;
             grid-row-end: 5;
