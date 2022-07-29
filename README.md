@@ -4,6 +4,6 @@
 to get all the packages 
 
 ## Run "npm start" 
-to start the app.
+to launch the app.
 
 https://mantasval.com/
