@@ -3,7 +3,7 @@
 ## Run "npm install"
 to get all the packages 
 
-## run "npm start" 
+## Run "npm start" 
 to start the app.
 
 https://mantasval.com/
