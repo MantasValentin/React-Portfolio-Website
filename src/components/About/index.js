@@ -50,7 +50,7 @@ const About = () => {
             taking up leadership positions as I can easily play to everyone's
             skills and weak points.
           </p>
-          <p>I know how to work with HTML, CSS, Sass, Git, JS, and ReactJS.</p>
+          <p>I know how to work with HTML, CSS, Sass, Git, JS, Typescript and ReactJS.</p>
         </div>
 
         <div className="stage-cube-cont">

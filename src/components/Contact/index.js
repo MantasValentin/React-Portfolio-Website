@@ -48,7 +48,7 @@ const Contact = () => {
           </h1>
           <p>
             I am interested in job opportunities - especially ambitious or large
-            projects, as i would love to test my knowledge and improve myself.
+            projects, as i would love to put my knowledge to the test and improve myself.
             However, if you have other request or question, don't hesitate to
             contact me using the form below.
           </p>
